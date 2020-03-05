@@ -1,0 +1,22 @@
+Token class: symbol
+      token: (
+      spelling: (
+      ivalue: 0
+      dvalue: 0
+      start_line: 1
+      start_column: 9
+Token class: identifier
+      token: identifier
+      spelling: Jump_to_here
+      ivalue: 0
+      dvalue: 0
+      start_line: 1
+      start_column: 10
+Token class: bad
+      token: bad
+      spelling: 
+      ivalue: 0
+      dvalue: 0
+      start_line: 1
+      start_column: 22
+Number of tokens read: 3

@@ -1,0 +1,9 @@
+Dear manager, 
+
+The problem (1), was because of that the sortStringByIndex and the sortString method haven't been implemented yet, I fixed it by implementing them;
+
+The problem (2), was because of that the binary search algorithm required the data being sorted, but the method searchStaffByAge didn't sort the data first, I fixed it by sorting the data before searching;
+
+The problem (3), as you required, I implemented a Selection class, now you can test the solution anytime;
+
+Kind regards, Cheng-En, Hsieh a1755144

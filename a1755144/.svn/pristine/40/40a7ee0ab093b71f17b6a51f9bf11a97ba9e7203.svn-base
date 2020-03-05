@@ -1,0 +1,8 @@
+Token class: identifier
+      token: identifier
+      spelling: jne
+      ivalue: 0
+      dvalue: 0
+      start_line: 1
+      start_column: 9
+Number of tokens read: 1

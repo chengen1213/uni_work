@@ -1,0 +1,15 @@
+Token class: symbol
+      token: @
+      spelling: @
+      ivalue: 0
+      dvalue: 0
+      start_line: 1
+      start_column: 9
+Token class: int
+      token: int
+      spelling: 832
+      ivalue: 832
+      dvalue: 0
+      start_line: 1
+      start_column: 10
+Number of tokens read: 2
